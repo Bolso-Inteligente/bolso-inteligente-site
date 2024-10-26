@@ -1,1 +1,1 @@
-# Bolso Inteligente - Landing Page
+# Bolso Inteligente Landing Page
